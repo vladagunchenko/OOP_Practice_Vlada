@@ -61,7 +61,6 @@
 - `ResultCollection` – колекція для збереження результатів
 - `ResultFactory` – інтерфейс фабрики
 - `SimpleResultFactory` – реалізація Factory Method
-- `Main` – демонстрація роботи програми
   ---
 
 ### 🔹 Завдання 4 – Поліморфізм (Factory Method)
