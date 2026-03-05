@@ -10,11 +10,11 @@ public class Main {
         CalcResult r1 = factory.createResult(10.5);
         CalcResult r2 = factory.createResult(25.7);
 
-        collection.addResult(r1);
-        collection.addResult(r2);
+        collection.add(r1);
+        collection.add(r2);
 
-        collection.showAll();
-
+        for (CalcResult r : collection.getResults()) {
+            r.display();
+        }
     }
-
 }
