@@ -91,8 +91,7 @@
 
 ---
 
-#### Результат виконання програми:
 
-![Task3 run](src/Task3_Inheritance/task3_run.png)
+
 
 ---
