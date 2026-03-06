@@ -18,4 +18,4 @@ public class Main {
         ViewTable table = new ViewTable(12);
         table.displayTable(collection.getResults());
     }
-}1
+}
