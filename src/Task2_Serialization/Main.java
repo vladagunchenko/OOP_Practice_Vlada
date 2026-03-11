@@ -1,4 +1,4 @@
-package lab02;
+package Task2_Serialization;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

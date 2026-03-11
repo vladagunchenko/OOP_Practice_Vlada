@@ -1,4 +1,4 @@
-package lab02;
+package Task2_Serialization;
 import java.io.Serializable;
 /**
  * Клас зберігає початкове число та його представлення
