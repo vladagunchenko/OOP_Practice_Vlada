@@ -1,9 +1,6 @@
 public class Main {
-
     public static void main(String[] args) {
-
         System.out.println("Аргументи командного рядка:");
-
         if (args.length == 0) {
             System.out.println("Аргументи відсутні.");
         } else {
