@@ -55,20 +55,20 @@ Observers (спостерігачі):
 
 ### Графічний інтерфейс програми
 
-![img.png](img.png)
+![Graph](../../screenshots/task7_graph.png)
 
 ---
 
 ### Введення нового значення користувачем
 
-![img_1.png](img_1.png)
+![img_1.png](../../screenshots/img_71.png)
 
 ---
 
 ### Оновлення графіка після додавання значення
+![task7_input.png](../../screenshots/task7_input.png)
+![task7_update2.png](../../screenshots/task7_update2.png)
 
-![img_2.png](img_2.png)
-![img_4.png](img_4.png)
 ---
 
 ## Анотації
@@ -93,7 +93,7 @@ Observers (спостерігачі):
 
 ### Приклад роботи Reflection
 
-![img_3.png](img_3.png)
+![img_3.png](../../screenshots/task7_update1.png)
 ---
 
 ## Висновок

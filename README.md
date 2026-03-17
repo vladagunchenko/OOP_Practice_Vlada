@@ -166,7 +166,7 @@
 - Використання шаблону **Worker Thread**
 
 ## Структура
-![img_1.png](screenshots/img_1.png)
+![img_1.png](img_1.png)
 - `Command` – інтерфейс команди
 - `AvgCommand` – обчислення середнього значення
 - `MaxCommand` – пошук максимального значення
@@ -182,7 +182,6 @@
 # Завдання 7 – Графічний інтерфейс та шаблон Observer
 
 У даній практичній роботі було реалізовано програму на Java, яка демонструє використання шаблону проектування **Observer**, власних **анотацій**, механізму **Reflection**, а також створення **графічного інтерфейсу за допомогою Swing**.
-![img_13.png](screenshots/img_13.png)
 Програма працює з колекцією числових значень та відображає їх у вигляді **стовпчикового графіка**.  
 Користувач може вводити нові значення, після чого графік автоматично оновлюється.
 
@@ -201,6 +200,7 @@ Observable (об'єкт, за яким спостерігають):
 - додавання нових значень
 - повідомлення спостерігачів про зміну даних
 
+  ![img_13.png](screenshots/img_13.png)
 ---
 
 Observers (спостерігачі):
@@ -208,6 +208,7 @@ Observers (спостерігачі):
 **ConsoleObserver**
 
 Відслідковує зміну колекції та виводить повідомлення у консоль.
+
 
 **GraphObserver**
 
@@ -236,20 +237,19 @@ Observers (спостерігачі):
 
 ### Графічний інтерфейс програми
 
-![img.png](screenshots/img.png)
+![task7_graph.png](screenshots/task7_graph.png)
 
 ---
 
 ### Введення нового значення користувачем
 
-![img_1.png](screenshots/img_1.png)
+![img_71.png](screenshots/img_71.png)
 
 ---
 
 ### Оновлення графіка після додавання значення
-
-![img_2.png](screenshots/img_2.png)
-![img_4.png](screenshots/img_4.png)
+![task7_input.png](screenshots/task7_input.png)
+![task7_update2.png](screenshots/task7_update2.png)
 ---
 
 ## Анотації
@@ -274,7 +274,7 @@ Observers (спостерігачі):
 
 ### Приклад роботи Reflection
 
-![img_3.png](screenshots/img_3.png)
+![task7_update1.png](screenshots/task7_update1.png)
 ---
 
 ## Висновок
